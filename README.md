@@ -4,9 +4,13 @@ Solidity contract for a simplified Twitter platform on Ethereum. Features tweeti
 Features:
 
 Tweeting: Users can create tweets with content limited to 280 characters.
+
 Direct Messaging: Users can send direct messages to other users.
+
 Following: Users can follow other users to see their tweets in their feed.
+
 Account Verification: Users can verify their accounts by paying a verification fee.
+
 Fee Customization: The contract owner can set and modify the verification fee.
 
 Usage:
