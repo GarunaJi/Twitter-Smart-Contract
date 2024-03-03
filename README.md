@@ -34,6 +34,6 @@ Integrate with decentralized storage solutions for tweet content.
 Add support for token-based incentives and rewards.
 
 Contributors:
-Garuna (Anurag Swaroop Yadav)
+GarunaJi (Anurag Swaroop Yadav)
 
 Feel free to contribute to the project or use it as a reference for building decentralized social media applications on Ethereum.
